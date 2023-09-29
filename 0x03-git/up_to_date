@@ -1,1 +1,2 @@
-Git command used: git checkout main
+To update your local branch with the latest changes from the 'main' branch, use the following Git command:
+echo "git pull origin main" > up_to_date
